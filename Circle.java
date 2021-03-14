@@ -17,8 +17,8 @@ public Circle(double radius)
 
 public double getArea() 
 {
-    //Return πr^2 (area formula)
-    //Use Math.pow method (page 141) in order to calculate exponent
+   
+  
     return (pi * Math.pow(radius, 2));
 }
 
